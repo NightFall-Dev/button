@@ -7,7 +7,7 @@
 		"sampctl/samp-stdlib",
 		"Southclaws/samp-logger",
 		"pawn-lang/YSI-Includes",
-		"samp-incognito/samp-streamer-plugin:v2.9.3",
+		"samp-incognito/samp-streamer-plugin:v2.9.4",
 		"NightFall-Dev/action-text",
 		"ScavengeSurvive/mathutil",
 		"Southclaws/pawn-errors"
